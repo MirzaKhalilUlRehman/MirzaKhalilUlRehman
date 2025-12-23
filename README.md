@@ -67,10 +67,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Open to freelance, internships & frontend roles</b>
-</p>
-
 ---
 
 <p align="center">
