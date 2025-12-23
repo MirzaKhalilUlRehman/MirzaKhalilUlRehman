@@ -45,32 +45,6 @@
 
 ---
 
-## 🎥 Project UI GIF Previews
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283131-6a06c7c7-02a0-4a14-9f5f-53b9b11c4b66.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/215283141-90ff6e93-6dc8-4b9f-bb9b-2e2fd7a95419.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/215283150-8c19c7c2-bf75-4d4d-b3cb-d6b9bb9b08b0.gif" width="200" />
-</p>
-
-<p align="center">
-  <i>Animated UI previews from frontend projects</i>
-</p>
-
----
-
-## 🌗 Dark / Light Theme Switch
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283165-3c2c7f2b-7a36-4e58-8f58-1f40f88a92c7.gif" width="420" />
-</p>
-
-<p align="center">
-  <i>Custom dark–light mode toggle using CSS & JavaScript</i>
-</p>
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -82,7 +56,7 @@
 ## 💼 Hire Me / Contact
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mirzakhalilulrehman123456@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://mirzakhalilulrehman.github.io/Portfolio" target="_blank">
