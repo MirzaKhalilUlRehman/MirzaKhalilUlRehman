@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2800&pause=500&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;HTML+CSS+JavaScript;Tailwind+CSS+%7C+Bootstrap;Git+%7C+GitHub+%7C+VS+Code;Crafting+Modern+Animated+Web+UIs" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MirzaKhalilUlRehman&label=Profile+Views&color=00C2FF&style=flat" />
-</p>
+
 
 ---
 
@@ -33,12 +31,6 @@
 ---
 
 ## 🚀 Frontend Skills
-
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=95&color=00C2FF" />
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=92&color=00C2FF" />
-  <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript&value=85&color=00C2FF" />
-</p>
 
 - HTML5 & Semantic Markup  
 - Advanced CSS (Flexbox, Grid, Animations)  
