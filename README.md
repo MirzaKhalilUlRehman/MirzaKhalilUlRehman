@@ -57,19 +57,6 @@
 
 ---
 
-## 📱 Mobile UI Preview
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283094-1c1c6a3b-8fd6-4f5a-9b3b-4d6d2b80a2a6.png" width="180" />
-  <img src="https://user-images.githubusercontent.com/74038190/215283097-4f8d3cb8-bd2c-4e1f-9c2d-0d8f3b4f3e52.png" width="180" />
-  <img src="https://user-images.githubusercontent.com/74038190/215283099-7cdb52a7-4d68-4d1c-9ed0-29f2b31d7c98.png" width="180" />
-</p>
-
-<p align="center">
-  <i>Responsive mobile UI previews from frontend projects</i>
-</p>
-
----
 
 ## 📈 GitHub Activity
 
