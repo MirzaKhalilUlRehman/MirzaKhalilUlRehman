@@ -11,10 +11,9 @@
 
 - 🎨 Frontend Software Developer  
 - 💻 Advanced **HTML, CSS & JavaScript**
-- ⚡ Expert in **Tailwind CSS & Bootstrap**
+- ⚡ **Tailwind CSS** & **Bootstrap**
 - 🔧 Strong experience with **Git, GitHub & VS Code**
-- 🌱 Continuously learning modern frontend patterns
-- 🚀 Focused on clean, responsive & animated UI
+- 🚀 Clean, responsive & animated UI focus
 
 ---
 
@@ -28,32 +27,24 @@
 
 ## 🚀 Frontend Skills
 
-- ✅ HTML5 & Semantic Markup  
-- ✅ Advanced CSS (Flexbox, Grid, Animations)  
-- ✅ JavaScript (DOM, Events, Logic)  
-- ✅ Tailwind CSS (Utility-first workflow)  
-- ✅ Bootstrap (Responsive Components)  
-- ✅ Git & GitHub (Version Control)  
-- ✅ VS Code (Professional Workflow)
+- HTML5 & Semantic Markup  
+- Advanced CSS (Flexbox, Grid, Animations)  
+- JavaScript (DOM, Events, Logic)  
+- Tailwind CSS (Utility-first workflow)  
+- Bootstrap (Responsive Components)  
+- Git & GitHub  
+- VS Code Workflow  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaKhalilUlRehman&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
