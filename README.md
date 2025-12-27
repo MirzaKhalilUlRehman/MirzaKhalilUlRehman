@@ -1,74 +1,89 @@
-<h1 align="center">Hi 👋, I'm Mirza Khalil Ul Rehman</h1>
-<h3 align="center">Frontend Software Developer | UI Specialist 🚀</h3>
+<h1 align="center">👋 I'm Mirza Khalil Ul Rehman</h1>
+<h3 align="center">Frontend Software Engineer | Neon UI & Glassmorphism Specialist ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&pause=600&color=00E5FF&center=true&vCenter=true&width=760&lines=Frontend+Software+Developer;HTML+CSS+JavaScript;Tailwind+CSS+%7C+Bootstrap;Neon+UI+%7C+Glassmorphism;Mobile-First+Modern+Designs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=760&lines=Building+Futuristic+Web+Interfaces;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Neon+UI+%7C+Glassmorphism;Pixel-Perfect+Mobile-First+Designs" />
 </p>
 
 <p align="center">
-  <a href="https://mirzakhalilulrehman.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/🌌_Visit_My_Portfolio-0FF0FC?style=for-the-badge&logo=vercel&logoColor=black" />
+  <a href="https://mirzakhalilulrehman.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/🌌_View_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="mailto:mirzakhalilulrehman123456@gmail.com">
+    <img src="https://img.shields.io/badge/💼_Hire_Me-6A00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284115-9a9d8b74-4f5a-4f3d-bd4c-8e3c7caa4b5c.gif"/>
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284115-9a9d8b74-4f5a-4f3d-bd4c-8e3c7caa4b5c.gif"/>
 
-- 🎨 Frontend Software Developer focused on **modern UI/UX**
-- 💻 Advanced **HTML, CSS & JavaScript**
-- 🌌 Passion for **Neon UI & Glassmorphism**
-- ⚡ Tailwind CSS & Bootstrap expert
-- 🔧 Git, GitHub & VS Code daily workflow
-- 📱 Strong **mobile-first & responsive design**
-- 🌱 Always learning & improving
+- 🎨 Frontend Engineer crafting **next-gen UI experiences**
+- ⚡ Expert in **HTML, CSS, JavaScript**
+- 🌌 Specialized in **Neon UI / Glassmorphism**
+- 📱 Mobile-first, accessibility-focused layouts
+- 🔧 Git, GitHub, VS Code power workflow
+- 🚀 Obsessed with clean architecture & performance
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode,figma&perline=9" />
 </p>
 
 ---
 
-## 🌌 UI Design Style
-
-- ✨ Glassmorphism panels & blur effects  
-- 🌈 Neon gradients & glow accents  
-- 🎯 Clean, minimal & futuristic layouts  
-- 📱 Mobile-first approach  
-- ⚡ Smooth animations & micro-interactions  
-
----
-
-## 📈 GitHub Activity
+## 📱 Mobile UI Preview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" />
+  <img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVnYWp6ZjVnN2I2b3R2cDJrZ2FqZ2tqMGZ2aTJibGx1a3JtaHBzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYB8Ory7Hqefo9a/giphy.gif"/>
+  <img width="180" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+  <img width="180" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 </p>
 
 ---
 
-## 💼 Hire Me / Contact
+## 🌌 UI Philosophy
+
+- ✨ Glassmorphism layers with blur depth  
+- 🌈 Neon gradients & glowing micro-details  
+- 🎯 Minimal yet futuristic layouts  
+- 📱 Thumb-friendly mobile UI  
+- ⚡ 60fps smooth animations  
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MirzaKhalilUlRehman&theme=algolia&no-frame=true&column=6"/>
+</p>
+
+---
+
+## 🤝 Let’s Build Something Legendary
 
 <p align="center">
   <a href="mailto:mirzakhalilulrehman123456@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://mirzakhalilulrehman.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-6A00FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://mirzakhalilulrehman.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-6A00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/MirzaKhalilUlRehman">
-    <img src="https://img.shields.io/badge/GitHub_Profile-111?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6A00FF&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:6A00FF&height=160&section=footer"/>
 </p>
