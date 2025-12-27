@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=520&lines=Mirza+Khalil+Ul+Rehman" />
-</h1>
+<h1 align="center">👋 I'm Mirza Khalil Ul Rehman</h1>
 
 <h3 align="center">Frontend Software Engineer | Neon UI & Glassmorphism Specialist ⚡</h3>
 
