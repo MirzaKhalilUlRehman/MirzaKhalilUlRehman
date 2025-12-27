@@ -37,16 +37,6 @@
 
 ---
 
-## 📱 Mobile UI Preview
-
-<p align="center">
-  <img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVnYWp6ZjVnN2I2b3R2cDJrZ2FqZ2tqMGZ2aTJibGx1a3JtaHBzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYB8Ory7Hqefo9a/giphy.gif"/>
-  <img width="180" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
-  <img width="180" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-</p>
-
----
-
 ## 🌌 UI Philosophy
 
 - ✨ Glassmorphism layers with blur depth  
