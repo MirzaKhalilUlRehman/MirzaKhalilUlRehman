@@ -50,14 +50,19 @@
 
 ---
 
-## 📊 GitHub & LeetCode Performance
+## 📊 GitHub Performance
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
   <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
 </p>
 
+---
+
+## 📈 LeetCode Performance
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="70%" />
 </p>
 
 ---
