@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mirzakhalilulrehman.github.io/Portfolio">
+  <a href="https://MirzaKhalilUlRehman.github.io/Portfolio">
     <img src="https://img.shields.io/badge/🌌_View_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
   <a href="mailto:mirzakhalilulrehman123456@gmail.com">
@@ -51,7 +51,8 @@
 ## 📊 GitHub Performance
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=radical&hide_border=true&v=7" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true&v=7" width="49%" />
 </p>
 
 ---
@@ -62,7 +63,7 @@
   <a href="mailto:mirzakhalilulrehman123456@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://mirzakhalilulrehman.github.io/Portfolio">
+  <a href="https://MirzaKhalilUlRehman.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-6A00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/MirzaKhalilUlRehman">
