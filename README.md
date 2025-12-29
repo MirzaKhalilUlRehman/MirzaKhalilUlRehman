@@ -34,6 +34,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,git,github,vscode,figma&perline=9" />
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" title="LeetCode"/>
 </p>
 
 ---
@@ -47,15 +49,16 @@
 - ⚡ 60fps smooth animations  
 
 ---
+
 ## 📊 GitHub & LeetCode Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=radical&hide_border=true&v=8" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true&v=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="70%" />
 </p>
 
 ---
