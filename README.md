@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="70%" />
+  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="49%" />
 </p>
 
 ---
