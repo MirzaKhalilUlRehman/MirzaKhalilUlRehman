@@ -51,7 +51,6 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=radical&hide_border=true&v=7" width="49%" />
   <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true&v=7" width="49%" />
 </p>
 
