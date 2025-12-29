@@ -51,7 +51,7 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" width="49%"/>
+ <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 ---
