@@ -49,66 +49,32 @@
 - ⚡ 60fps smooth animations  
 
 ---
-
 ## 📊 GitHub Performance
 
-### 🎯 **GitHub Stats (Loading Automatically)**
 <p align="center">
-  <!-- Primary Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=dark&title_color=00F0FF&icon_color=6A00FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaKhalilUlRehman&layout=compact&theme=dark&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true" width="49%" alt="Top Languages" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=dark&title_color=00F0FF&icon_color=6A00FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&hide_title=false&count_private=true" width="49%" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaKhalilUlRehman&layout=compact&theme=dark&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true" width="49%" />
+
 </p>
 
-### 🔥 **Activity & Streak**
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirzaKhalilUlRehman&theme=react-dark&bg_color=0d1117&color=00F0FF&line=6A00FF&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph" />
-  
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=dark&background=0d1117&border=00F0FF&stroke=6A00FF&ring=00F0FF&fire=6A00FF&currStreakLabel=00F0FF&sideLabels=ffffff&dates=6A00FF" width="90%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=dark&background=0d1117&border=00F0FF&stroke=6A00FF&ring=00F0FF&fire=6A00FF&currStreakLabel=00F0FF&sideLabels=ffffff&dates=6A00FF" width="60%" />
 </p>
-
-### 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MirzaKhalilUlRehman&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" width="90%" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📈 LeetCode Performance
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="90%" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="49%" />
 </p>
 
 ---
 
-## 🎨 Featured Projects
-
-### ⚡ **Neon UI Projects**
-- **[Glassmorphism Dashboard](https://github.com/MirzaKhalilUlRehman/Glassmorphism-Dashboard)** - Futuristic admin panel with neon effects
-- **[Neon Portfolio](https://github.com/MirzaKhalilUlRehman/Neon-Portfolio)** - Interactive portfolio with glowing elements
-- **[Cyberpunk Login](https://github.com/MirzaKhalilUlRehman/Cyberpunk-Login)** - Animated login form with neon aesthetics
-
-### 🌌 **Glassmorphism Designs**
-- **[Modern Weather App](https://github.com/MirzaKhalilUlRehman/Weather-App)** - Glass weather interface with animations
-- **[Music Player UI](https://github.com/MirzaKhalilUlRehman/Music-Player)** - Frosted glass music player
-- **[E-commerce Glass](https://github.com/MirzaKhalilUlRehman/Ecommerce-Glass)** - Transparent shopping interface
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Mastering Neon UI Design Principles](https://mirza-blog.com/neon-ui-design)
-- 🌈 [Glassmorphism: The Future of Web Interfaces](https://mirza-blog.com/glassmorphism-guide)
-- ⚡ [60fps Animations in CSS3](https://mirza-blog.com/css-animations)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📫 Connect With Me
+## 🤝 Let's Build Something Legendary
 
 <p align="center">
   <a href="mailto:mirzakhalilulrehman123456@gmail.com">
@@ -120,29 +86,8 @@
   <a href="https://github.com/MirzaKhalilUlRehman">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://leetcode.com/u/MKJani/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:6A00FF&height=160&section=footer"/>
-</p>
-
----
-
-<div align="center">
-  
-### ⚡ **Visitor Count**
-![Visitor Count](https://komarev.com/ghpvc/?username=MirzaKhalilUlRehman&color=00F0FF&style=flat-square&label=PROFILE+VIEWS)
-
-### 🌟 **GitHub Metrics**
-![Followers](https://img.shields.io/github/followers/MirzaKhalilUlRehman?color=6A00FF&style=flat-square&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/MirzaKhalilUlRehman?color=00F0FF&style=flat-square&label=STARS)
-![Repositories](https://badgen.net/github/repos/MirzaKhalilUlRehman?color=6A00FF)
-
-</div>
-
-<p align="center">
-  <i>✨ Crafting digital experiences that glow in the dark ✨</i>
 </p>
