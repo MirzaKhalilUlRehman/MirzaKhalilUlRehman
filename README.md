@@ -56,9 +56,9 @@
   <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=dark&background=0d1117&border=00F0FF&stroke=6A00FF&ring=00F0FF&fire=6A00FF&currStreakLabel=00F0FF&sideLabels=ffffff&dates=6A00FF" width="60%" />
 </p>
 
-## 📈 LeetCode Performance
+<!--## 📈 LeetCode Performance
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="49%" />
 </p> -->
 
