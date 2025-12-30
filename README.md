@@ -49,14 +49,14 @@
 - ⚡ 60fps smooth animations  
 
 ---
-
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=radical&hide_border=true&v=9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  
+  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
----
 
 ## 📈 LeetCode Performance
 
