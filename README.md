@@ -51,10 +51,8 @@
 ---
 ## 📊 GitHub Performance
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MirzaKhalilUlRehman" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=dark&title_color=00F0FF&icon_color=6A00FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF" width="60%" />
 </p>
-
-
 
 ## 📈 LeetCode Performance
 
