@@ -50,10 +50,10 @@
 
 ---
 ## 📊 GitHub Performance
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MirzaKhalilUlRehman/MirzaKhalilUlRehman/main/assets/streak.svg" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&sideNums=FFFFFF" width="60%" />
 </p>
+
 
 
 ## 📈 LeetCode Performance
