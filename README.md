@@ -52,9 +52,8 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MirzaKhalilUlRehman&theme=radical&hide_border=true" width="60%" />
+  <img src="https://raw.githubusercontent.com/MirzaKhalilUlRehman/MirzaKhalilUlRehman/main/assets/streak.svg" width="60%" />
 </p>
-
 
 
 ## 📈 LeetCode Performance
