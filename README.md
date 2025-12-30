@@ -52,13 +52,9 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github.com/MirzaKhalilUlRehman?tab=overview&from=2024-01-01&to=2025-12-31" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MirzaKhalilUlRehman&theme=radical&hide_border=true" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MirzaKhalilUlRehman&theme=radical" width="90%" />
-</p>
->
 
 
 ## 📈 LeetCode Performance
