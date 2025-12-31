@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MirzaKhalilUlRehman&label=PROFILE%20VISITORS&color=00F0FF&style=for-the-badge" alt="Profile Visitors" />
+</p>
+
+<p align="center">
   <a href="https://MirzaKhalilUlRehman.github.io/Portfolio">
     <img src="https://img.shields.io/badge/🌌_View_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
@@ -49,24 +53,47 @@
 - ⚡ 60fps smooth animations  
 
 ---
- <!--<p align="center">
- ## 📊 GitHub Performance
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+### 🏆 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=dark&title_color=00F0FF&icon_color=6A00FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&hide_title=false&count_private=true&cache_seconds=86400" width="49%" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaKhalilUlRehman&layout=compact&theme=dark&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
 
+### 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=dark&background=0d1117&border=00F0FF&stroke=6A00FF&ring=00F0FF&fire=6A00FF&currStreakLabel=00F0FF&sideLabels=ffffff&dates=6A00FF" width="60%" />
 </p>
 
-## 📈 LeetCode Performance
+### 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirzaKhalilUlRehman&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00F0FF&line=6A00FF&point=FFFFFF&title_color=00F0FF&custom_title=GitHub+Contributions" width="90%" />
+</p>
 
+</div>
+
+---
+
+## 🏆 LeetCode Performance
+
+<div align="center">
+
+### 📊 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="49%" />
-</p>-->
+</p>
+
+### 🔥 LeetCode Contribution
+<p align="center">
+  <!-- Replace YOUR_USERNAME with your actual LeetCode username -->
+  <img src="https://leetcard.jacoblin.cool/MKJani?theme=dark&font=JetBrains%20Mono&ext=activity&border=0" width="49%" />
+</p>
+
+</div>
 
 ---
 
@@ -81,6 +108,9 @@
   </a>
   <a href="https://github.com/MirzaKhalilUlRehman">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/MKJani/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
