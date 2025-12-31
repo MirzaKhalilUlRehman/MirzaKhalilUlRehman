@@ -52,13 +52,11 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=dark&title_color=00F0FF&icon_color=6A00FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&hide_title=false&count_private=true" width="49%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=dark&title_color=00F0FF&icon_color=6A00FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&hide_title=false&count_private=true&cache_seconds=86400" width="49%" />
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaKhalilUlRehman&layout=compact&theme=dark&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true" width="49%" />
-
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaKhalilUlRehman&layout=compact&theme=dark&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
 
 <p align="center">
