@@ -56,13 +56,13 @@
 
 ## 📊 Real Development Activity
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💻 True Code Contributions
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MirzaKhalilUlRehman&layout=compact&theme=dark&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&langs_count=6&custom_title=Weekly+Development+Time" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MirzaKhalilUlRehman&theme=dark&utcOffset=5" width="49%" />
-</p>
+</p> -->
 
 ### 📝 Meaningful Contributions
 <p align="center">
@@ -70,11 +70,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirzaKhalilUlRehman&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=00F0FF&line=6A00FF&point=FFFFFF&title_color=00F0FF&custom_title=Code+Contribution+Graph&hide_title=false" width="90%" />
   </a>
 </p>
-
+<!--
 ### 📊 Contribution Analytics
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=MirzaKhalilUlRehman&theme=dark&show_icons=true&title_color=00F0FF&icon_color=6A00FF&bg_color=0d1117&border_color=00F0FF" width="60%" />
-</p>
+</p>-->
 
 </div>
 ---
