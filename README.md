@@ -62,12 +62,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MirzaKhalilUlRehman&show_icons=true&theme=dark&title_color=00F0FF&icon_color=6A00FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&hide_title=false&count_private=true&cache_seconds=86400" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaKhalilUlRehman&layout=compact&theme=dark&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&border_color=00F0FF&hide_border=true&cache_seconds=86400" width="49%" />
-</p>
+</p>-->
 
 ### 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MirzaKhalilUlRehman&theme=dark&background=0d1117&border=00F0FF&stroke=6A00FF&ring=00F0FF&fire=6A00FF&currStreakLabel=00F0FF&sideLabels=ffffff&dates=6A00FF" width="60%" />
-</p>-->
+</p>
 
 ### 📈 GitHub Contribution Graph
 <p align="center">
