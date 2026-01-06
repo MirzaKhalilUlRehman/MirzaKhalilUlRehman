@@ -116,3 +116,4 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:6A00FF&height=160&section=footer"/> </p>
