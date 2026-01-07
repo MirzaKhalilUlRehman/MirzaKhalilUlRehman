@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MirzaKhalilUlRehman&label=PROFILE%20VISITORS&color=00F0FF&style=for-the-badge" alt="Profile Visitors" />
+ <img src="https://profile-counter.glitch.me/MirzaKhalilUlRehman/count.svg" alt="Profile visitor" />
 </p>
 
 <p align="center">
