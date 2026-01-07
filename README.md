@@ -5,10 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=760&lines=Building+Futuristic+Web+Interfaces;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Neon+UI+%7C+Glassmorphism;Pixel-Perfect+Mobile-First+Designs" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-GitHub%20Insights-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-Check%20GitHub%20Insights-blue?style=for-the-badge"/>
 </p>
+
 <p align="center">
   <a href="https://MirzaKhalilUlRehman.github.io/Portfolio">
     <img src="https://img.shields.io/badge/🌌_View_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
