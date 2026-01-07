@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MirzaKhalilUlRehman&count_bg=%2300F0FF&title_bg=%230D1117&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false" />
+  <img src="https://img.shields.io/badge/Visitors-GitHub%20Insights-blue?style=for-the-badge"/>
 </p>
-
 <p align="center">
   <a href="https://MirzaKhalilUlRehman.github.io/Portfolio">
     <img src="https://img.shields.io/badge/🌌_View_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
