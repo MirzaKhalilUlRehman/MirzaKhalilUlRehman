@@ -48,7 +48,7 @@
 - ⚡ 60fps smooth animations  
 
 ---
-
+<!--
 ## 📝 Meaningful Contributions
 
 <p align="center">
@@ -64,6 +64,7 @@
 </p>
 
 ---
+-->
 
 ## 🤝 Let's Build Something Legendary
 
